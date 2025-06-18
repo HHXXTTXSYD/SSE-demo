@@ -1,4 +1,4 @@
-# SSE Demo - Server-Sent Events 演示项目
+# SSE Demo - Server-Sent Events 演示项目 -- 我的分支
 
 ## 📖 什么是 SSE (Server-Sent Events)？
 
